@@ -1,0 +1,304 @@
+@media (max-width:1440px) {}
+
+@media (max-width:1320px) {}
+
+@media (max-width:1140px) {
+    .container {
+        max-width: 1070px;
+        width: 100%;
+    }
+
+    .partners__next {
+        width: 1099px;
+    }
+
+    .header__boxs {
+        width: 1068px;
+    }
+}
+
+@media (max-width:1024px) {
+    .container {
+        max-width: 964px;
+    }
+
+    .header__boxs {
+        width: 965px;
+    }
+
+    .header__title {
+        font-size: 45px;
+    }
+
+    .box__img {
+        width: 308px;
+        height: 320px;
+    }
+
+    .section__card {
+        width: 285px;
+        height: 250px;
+    }
+
+    .partners__next {
+        width: 992px;
+    }
+
+    .work__card {
+        width: 297px;
+        height: 259px;
+    }
+
+    .contact__card-txt {
+        font-size: 20px;
+    }
+
+    .contact__card-title {
+        font-size: 20px;
+    }
+}
+
+@media (max-width:992px) {}
+
+@media (max-width:850px) {
+    .container {
+        max-width: 802px;
+    }
+
+    .header__boxs {
+        width: 800px;
+    }
+
+    .header__box {
+        width: 22px;
+    }
+
+    .header__box-title {
+        font-size: 53px;
+    }
+
+    .header__box-subtitle {
+        font-size: 34px;
+    }
+
+    .section__title {
+        font-size: 32px;
+    }
+
+    .box__img {
+        width: 255px;
+        height: 296px;
+    }
+
+    .section__box-txt {
+        font-size: 14px;
+    }
+
+    .build__title {
+        font-size: 32px;
+    }
+
+    .section__cards {
+        margin-bottom: 68px;
+    }
+
+    .section__card {
+        width: 240px;
+        height: 239px;
+    }
+
+    .partners {
+        display: none;
+    }
+
+    .work__card {
+        width: 257px;
+        height: 253px;
+    }
+
+    .work__txt {
+        line-height: 17px;
+        width: 238px;
+    }
+
+    .contact__card-txt {
+        font-size: 16px;
+    }
+
+    .contact__card-title {
+        font-size: 16px;
+    }
+
+    .contact__img {
+        width: 28px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .container {
+        max-width: 744px;
+    }
+
+    .header__boxs {
+        width: 740px;
+    }
+
+    .header__box {
+        width: 14px;
+    }
+
+    .section__boxs {
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section__box {
+        width: 389px;
+    }
+
+    .box__img {
+        width: 378px;
+        height: 368px;
+    }
+
+    .section__box-txt {
+        font-size: 18px;
+        width: 404px;
+    }
+
+    .work__cards {
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .work__card {
+        width: 389px;
+        margin-top: 62px;
+    }
+
+    .work__txt {
+        line-height: 18px;
+        width: 301px;
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width:736px) {
+
+    .container {
+        max-width: 717px;
+    }
+
+    .header__boxs {
+        width: 716px;
+    }
+
+    .header__title {
+        font-size: 37px;
+    }
+
+    .work__text {
+        font-size: 33px;
+    }
+
+    .contact__title {
+        font-size: 33px;
+    }
+}
+
+@media (max-width:684px) {
+    .container {
+        max-width: 643px;
+    }
+
+    .header__boxs {
+        width: 642px;
+    }
+
+    .header__box {
+        width: 0;
+        margin-left: 50px;
+    }
+
+    .section__cards {
+        flex-wrap: wrap;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .section__card {
+        width: 378px;
+        height: 300px;
+        margin-top: 100px;
+    }
+}
+
+@media (max-width:667px) {
+    .container {
+        max-width: 552px;
+    }
+
+    .header__box-title {
+        font-size: 36px;
+    }
+
+    .header__box-subtitle {
+        font-size: 23px;
+    }
+
+    .header__txt{
+        font-size: 14px;
+    }
+
+    .header__boxs {
+        width: 100%;
+        height: 197px;
+        margin-top: 55px;
+    }
+
+    .header__title {
+        font-size: 29px;
+    }
+
+    .section__title {
+        font-size: 30px;
+    }
+
+    .box__img {
+        width: 364px;
+        height: 357px;
+    }
+
+    .section__box-txt {
+        font-size: 18px;
+        width: 353px;
+    }
+
+    .build__title {
+        font-size: 29px;
+    }
+
+    .section__cards {
+        margin-top: -35px;
+    }
+
+    .contact__title {
+        font-size: 27px;
+    }
+}
+
+@media (max-width:576px) {}
+
+@media (max-width:414px) {}
+
+@media (max-width:375px) {}
